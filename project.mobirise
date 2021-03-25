@@ -46,6 +46,8 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
